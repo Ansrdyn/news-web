@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Naruto",
+      "phoneNumber": "+6281298765432",
+      "email": "naruto@konoha.com",
+      "category": "family"
+    },
+    {
+      "id": "2",
+      "name": "Sasuke",
+      "phoneNumber": "+6281198976564",
+      "email": "sasuke@konoha.com",
+      "category": "family"
+    }
+  ]
+}
